@@ -110,7 +110,7 @@ Amazon-Sales-PowerBI-Dashboard
 - Quantity by Size
 - Product Distribution
 
-![Product Performance](Images/Product_Performance.png)
+![Product Performance](Images/Product_performance.png)
 
 ---
 
@@ -124,7 +124,7 @@ Amazon-Sales-PowerBI-Dashboard
 - B2B Orders
 - Shipping Service Level
 
-![Fulfilment](Images/Fulfilment Operations.png)
+![Fulfilment](Images/Fulfillment & Operations.png)
 
 ---
 
