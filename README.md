@@ -97,7 +97,7 @@ Amazon-Sales-PowerBI-Dashboard
 - Sales by Category
 - Fulfillment Analysis
 
-![Executive Overview](Images/Executive Overview.png)
+![Executive Overview](Images/Executive%20Overview.png)
 
 ---
 
