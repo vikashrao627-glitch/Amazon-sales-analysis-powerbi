@@ -124,7 +124,7 @@ Amazon-Sales-PowerBI-Dashboard
 - B2B Orders
 - Shipping Service Level
 
-![Fulfilment](Images/Fulfillment & Operations.png)
+![Fulfilment](Images/Fulfillment&Operations.png)
 
 ---
 
