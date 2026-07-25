@@ -97,7 +97,7 @@ Amazon-Sales-PowerBI-Dashboard
 - Sales by Category
 - Fulfillment Analysis
 
-![Executive Overview](Images/Executive_Overview.png)
+![Executive Overview](Images/Executive Overview.png)
 
 ---
 
@@ -124,7 +124,7 @@ Amazon-Sales-PowerBI-Dashboard
 - B2B Orders
 - Shipping Service Level
 
-![Fulfilment](Images/Fulfilment_Operations.png)
+![Fulfilment](Images/Fulfilment Operations.png)
 
 ---
 
@@ -185,7 +185,7 @@ Provides state-level business insights.
 - Top Cities
 - Category Performance
 
-![State Details](Images/State_Details.png)
+![State Details](Images/Store_Details_Pages.png)
 
 ---
 
@@ -201,7 +201,7 @@ Detailed transaction-level report including
 - Amount
 - Status
 
-![Order Details](Images/Order_Details.png)
+![Order Details](Images/Order_Details_Pages.png)
 
 ---
 
